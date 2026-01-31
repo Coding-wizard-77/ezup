@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ending.unity
     guid: 731aaad7573857241b26aaa5963aa653
+  - enabled: 1
+    path: Assets/Final result/Level-1.unity
+    guid: 8bb69cba07c232642947c106e1083080
+  - enabled: 0
+    path: Assets/Aayush/puzzle.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Final result/PuzzleScene.unity
+    guid: 5900de8e37ca23d46b3425a70b743917
   m_configObjects: {}
