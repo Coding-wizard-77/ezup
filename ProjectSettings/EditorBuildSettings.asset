@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Final result/starting.unity
     guid: 369ff5ec935b4d14aa01fbe642424a7e
+  - enabled: 1
+    path: Assets/Final result/START.unity
+    guid: cfb7edfacc0428e45888dd8ee0eb43fd
   m_configObjects: {}
